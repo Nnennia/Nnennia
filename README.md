@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nnennia
 <!-- - 👀 I’m interested in Python a -->
-- 🌱 I’m currently learning software engineering with ALx/Holberton
+- 🌱 I'm a Software Engineer 
 <!-- - 💞️ I’m looking to collaborate on open-source projects -->
 - 📫 How to reach me ... nnenniaatuanya@gmail.com
 
